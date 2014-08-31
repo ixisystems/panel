@@ -1,0 +1,11 @@
+%{"cberl": {:git, "git://github.com/chitika/cberl.git", "00c4a4b2b9a7f5054f69303b0be64a5266e8de3a", []},
+  "cowboy": {:package, "1.0.0"},
+  "cowlib": {:package, "1.0.0"},
+  "email": {:git, "git://github.com/kivra/email.git", "9d7009532cf03099dee68bd141b1edae40e15c0f", []},
+  "hackney": {:git, "git://github.com/benoitc/hackney.git", "c5af75c883c10a036d5c8de15daacd1a3b7d27de", [tag: "0.13.1"]},
+  "idna": {:git, "git://github.com/benoitc/erlang-idna.git", "5089240e653ce254273da9cff57952a60b1d2c51", [tag: "1.0.1"]},
+  "jazz": {:git, "git://github.com/meh/jazz.git", "e0cf73011f64868534cd229c458e205ce04a6619", []},
+  "jiffy": {:git, "https://github.com/davisp/jiffy.git", "5cd89c1eda3801bdef790b1e7c0e09259332c0fc", [branch: "master"]},
+  "plug": {:package, "0.7.0"},
+  "poolboy": {:git, "https://github.com/devinus/poolboy.git", "17d1582533af5c076117e2e1270f4b43faa02f12", [branch: "master"]},
+  "ranch": {:package, "1.0.0"}}
